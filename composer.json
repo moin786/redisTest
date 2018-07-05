@@ -1,0 +1,15 @@
+{
+    "name": "moin786/redis-test",
+    "description": "PHP redis test",
+    "require": {
+        "predis/predis": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moinuddin",
+            "email": "moinuddin7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
