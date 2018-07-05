@@ -3,7 +3,7 @@
 ### Requirements
     Redis server into your maching
     PHP
-    Composer installation into your maching
+    Composer installed into your maching
 
 ## Download
     Download redis stable version form redis.io
