@@ -21,4 +21,4 @@
 
 ##Author
 
-[Mhohammed Minuddin](https://moinshareidea.wordpress.com)
+[Mohammed Minuddin](https://moinshareidea.wordpress.com)
